@@ -1,16 +1,38 @@
 [
     {
-        "id": 1,
-        "cover": "lose_control_cover.jpg",
-        "sound": "Teddy_Swims-Lose_Control.mp3",
-        "title": "Lose Control",
-        "category": "pop"
-    },
-    {
-        "id": 2,
-        "cover": "the_sound_of_silence_cover.jpg",
-        "sound": "Disturbed-The_Sound_Of_Silence.mp3",
-        "title": "The Sound of Silence",
-        "category": "pop"
-    }
-]
+           "id" : 1,
+           "artist": "Johny Halliday",
+           "cover" :"./assets/pictures/pokemonJohny.jpg",
+           "sound" : "./uploads/musics/johnnyHallydayPokemon.mp3",
+           "title" : "Pokemon Generic",
+           "category" : "anime"
+       },
+   
+       {
+           "id" : 2,
+           "artist": "Elena Siegman",
+           "cover" : "./assets/pictures/bo1.png",
+           "sound" : "./uploads/musics/blackOpsZombies.mp3",
+           "title" : "115 Black Ops Zombie",
+           "category" : "video game"
+       },
+   
+       {
+           "id" : 3,
+           "artist": "Capcom",
+           "cover" : "./assets/pictures/streetFighterIIZangief.png",
+           "sound" : "./uploads/musics/streetFighterII.mp3",
+           "title" : "Street Fighter 2",
+           "category" : "video game"
+       },
+   
+       {
+           "id" : 4,
+           "artist": "Pixar",
+           "cover" : "./assets/pictures/monsterAndCie.jpg",
+           "sound" : "./uploads/musics/monstresEtCompagnie.mp3",
+           "title" : "Monstre And Cie Generic",
+           "category" : "Disney"
+       }
+   ]
+   
