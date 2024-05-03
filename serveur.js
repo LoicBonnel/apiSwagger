@@ -6,7 +6,7 @@ const port = 3000;
 const version = 'v1';
 const router = require('./routes/routes');
 const app = express();
-const db = require('./db/dbConnect')
+const db = require('./DB/dbConnect')
 
 app.use(cors());
 app.use(express.json());
