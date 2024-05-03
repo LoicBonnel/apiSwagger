@@ -36,7 +36,7 @@
        },
 
        {
-        "id" : 4,
+        "id" : 5,
         "artist": "Valve",
         "cover" : "./assets/pictures/portal.jpg",
         "sound" : "./uploads/musics/PortalStillAlive.mp3",
@@ -44,7 +44,7 @@
         "category" : "video game"
         },
         {
-        "id" : 5,
+        "id" : 6,
         "artist": "NetherRealm Studios",
         "cover" : "./assets/pictures/mortalKombat.jpeg",
         "sound" : "./uploads/musics/mortalKombat.mp3",
@@ -52,7 +52,7 @@
         "category" : "video game"
         },
         {
-        "id" : 6,
+        "id" : 7,
         "artist": "La Caution",
         "cover" : "./assets/pictures/TheALaMenthe.png",
         "sound" : "./uploads/musics/TheALaMenthe.mp3",
@@ -60,7 +60,7 @@
         "category" : "video game"
         },
         {
-        "id" : 7,
+        "id" : 8,
         "artist": " NetherRealm Studios",
         "cover" : "./assets/pictures/Undertale.jpg",
         "sound" : "./uploads/musics/UndertaleMegalovania.mp3",
@@ -68,7 +68,7 @@
         "category" : "video game"
         },
         {
-        "id" : 8,
+        "id" : 9,
         "artist": "Supreme NTM",
         "cover" : "./assets/pictures/supremeNTM.png",
         "sound" : "./uploads/musics/SupremeNTM.mp3",
@@ -76,7 +76,7 @@
         "category" : "rap"
         },
         {
-        "id" : 9,
+        "id" : 10,
         "artist": "IAM",
         "cover" : "./assets/pictures/iam.jpg",
         "sound" : "./uploads/musics/iamPetitFrere.mp3",
