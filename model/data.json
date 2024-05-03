@@ -33,6 +33,23 @@
            "sound" : "./uploads/musics/monstresEtCompagnie.mp3",
            "title" : "Monstre And Cie Generic",
            "category" : "Disney"
-       }
+       },
+
+       {
+        "id" : 4,
+        "artist": "Valve",
+        "cover" : "./assets/pictures/portal.jpg",
+        "sound" : "./uploads/musics/PortalStillAlive.mp3",
+        "title" : "Portal Still Alive",
+        "category" : "video game"
+        },
+        {
+            "id" : 5,
+            "artist": " NetherRealm Studios",
+            "cover" : "./assets/pictures/mortalKombat.jpeg",
+            "sound" : "./uploads/musics/mortalKombat.mp3",
+            "title" : "Techno Syndrome (Mortal Kombat)",
+            "category" : "video game"
+            }
    ]
    
