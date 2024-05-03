@@ -44,12 +44,44 @@
         "category" : "video game"
         },
         {
-            "id" : 5,
-            "artist": " NetherRealm Studios",
-            "cover" : "./assets/pictures/mortalKombat.jpeg",
-            "sound" : "./uploads/musics/mortalKombat.mp3",
-            "title" : "Techno Syndrome (Mortal Kombat)",
-            "category" : "video game"
-            }
+        "id" : 5,
+        "artist": "NetherRealm Studios",
+        "cover" : "./assets/pictures/mortalKombat.jpeg",
+        "sound" : "./uploads/musics/mortalKombat.mp3",
+        "title" : "Techno Syndrome (Mortal Kombat)",
+        "category" : "video game"
+        },
+        {
+        "id" : 6,
+        "artist": "La Caution",
+        "cover" : "./assets/pictures/TheALaMenthe.png",
+        "sound" : "./uploads/musics/TheALaMenthe.mp3",
+        "title" : "Thé à la menthe",
+        "category" : "video game"
+        },
+        {
+        "id" : 7,
+        "artist": " NetherRealm Studios",
+        "cover" : "./assets/pictures/Undertale.jpg",
+        "sound" : "./uploads/musics/UndertaleMegalovania.mp3",
+        "title" : "Thé à la menthe",
+        "category" : "video game"
+        },
+        {
+        "id" : 8,
+        "artist": "Supreme NTM",
+        "cover" : "./assets/pictures/supremeNTM.png",
+        "sound" : "./uploads/musics/SupremeNTM.mp3",
+        "title" : "That's my people",
+        "category" : "rap"
+        },
+        {
+        "id" : 9,
+        "artist": "IAM",
+        "cover" : "./assets/pictures/iam.jpg",
+        "sound" : "./uploads/musics/iamPetitFrere.mp3",
+        "title" : "Petit Frère",
+        "category" : "rap"
+        }
    ]
    
