@@ -25,6 +25,9 @@ const Musics = db.define(
     category: {
       type: DataTypes.STRING,
       allowNull: false
+    },
+    artist: {
+      type: DataTypes.STRING,
     }
   },
 );

@@ -92,6 +92,32 @@
                 }
             }
         },
+        "musics/{id}": {
+            "delete": {
+                "summary": "Supprimer une musique par son ID",
+                "parameters": [
+                    {
+                        "name":"id",
+                        "in": "path",
+                        "required": true,
+                        "description": "ID de la musique",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Musique supprimé avec succès",
+                        "content": {
+                            "application/json": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
         "/api/v1/musics/random": {
             "get": {
                 "summary": "Obtenir une musique aléatoire",
